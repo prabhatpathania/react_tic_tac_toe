@@ -1,5 +1,5 @@
 # react_tic_tac_toe
-Game: React application which determines winner as well
+Game: React application which determines the winner as well
 
 
 1.  Clone the project
